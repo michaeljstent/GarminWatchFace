@@ -1,0 +1,9 @@
+<layout id="WatchFace">
+    <drawable class="Background" />
+    <label id="TimeLabel" x="center" y="46" font="Gfx.FONT_NUMBER_THAI_HOT" justification="Gfx.TEXT_JUSTIFY_CENTER"/><label
+    	id="Minutes" font="Gfx.FONT_NUMBER_MEDIUM" x="center" y="center"
+    	justification="Gfx.TEXT_JUSTIFY_CENTER">
+</label>
+	<label id="DoW" x="66" y="95" font="Gfx.FONT_SMALL"></label>
+	<label id="Date" x="135" y="95" font="Gfx.FONT_SMALL"></label>
+</layout>
